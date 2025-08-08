@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aman__211" target="blank"><img src="https://img.shields.io/twitter/follow/aman__211?logo=twitter&style=for-the-badge" alt="aman__211" /></a> </p>
 
-- 📫 How to reach me **aman**
+- 📫 How to reach me **aman kumar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
