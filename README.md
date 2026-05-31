@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **amankumar292004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GO0VIpnfceWZui7arhrgCWvQEkzZbHth/view?usp=drive_link](https://drive.google.com/file/d/1GO0VIpnfceWZui7arhrgCWvQEkzZbHth/view?usp=drive_link)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I optimize SQL queries faster than most people debug them 😄**
 
