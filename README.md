@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/aman__211" target="blank"><img src="https://img.shields.io/twitter/follow/aman__211?logo=twitter&style=for-the-badge" alt="aman__211" /></a> </p>
 
-- 🔭 I’m currently working on **Geospatial AI – Precision Agriculture Platform**
-
 - 🌱 I’m currently learning **Distributed Systems, System Design, Kubernetes, Advanced ML Optimization**
 
 - 💬 Ask me about **Python, Backend Architecture, ML Pipelines, React Dashboards, SQL Optimization**
