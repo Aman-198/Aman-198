@@ -14,19 +14,19 @@
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=0E75B6&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+full-stack+apps+%26+ML+pipelines;Co-Author+%40+ACM+Digital+Library;Sole+Developer+%40+Smart+Class+Connect+(EdTech);Ex-Intern+%40+INESC+TEC%2C+Porto%2C+Portugal;I+optimize+SQL+queries+faster+than+you+debug+them+%F0%9F%98%84" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=0E75B6&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+full-stack+apps+%26+ML+pipelines;Co-Author+%40+ACM+Digital+Library;Software+Developer+%40+Smart+Class+Connect+(EdTech);Ex-Intern+%40+INESC+TEC%2C+Porto%2C+Portugal;I+optimize+SQL+queries+faster+than+you+debug+them+%F0%9F%98%84" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering, Ramgarh Engineering College *(2022 – 2026)*
-- 💼 Software developer on a live UAE-based EdTech platform — website, Android app & internal tools
-- 🔬 Former Research/Frontend Intern at **INESC TEC** (RobotAir Lab & HumanISE Center), Porto, Portugal
+- 🎓 B.Tech in Computer Science &amp; Engineering, Ramgarh Engineering College *(2022 – 2026)*
+- 💼 Software developer on a live UAE-based EdTech platform — website, Android app &amp; internal tools
+- 🔬 Former Research/Frontend Intern at **INESC TEC** (RobotAir Lab &amp; HumanISE Center), Porto, Portugal
 - 📄 Co-authored **"WebTraceSense: Visualization of User Interaction Logs"** — published in the ACM Digital Library
 - 🏛️ Selected as a **National Research Presenter** at IISF 2024, Govt. of India
-- 🌱 Currently exploring **Distributed Systems, System Design, Kubernetes & Advanced ML Optimization**
+- 🌱 Currently exploring **Distributed Systems, System Design, Kubernetes &amp; Advanced ML Optimization**
 - 💬 Ask me about **Python, Backend Architecture, ML Pipelines, React Dashboards, SQL Optimization**
 - ⚡ Fun fact: **I optimize SQL queries faster than most people debug them 😄**
 
@@ -40,11 +40,11 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=python,c,typescript,javascript" />
 
-**Backend & Frontend**
+**Backend &amp; Frontend**
 <br/>
 <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express,react,nextjs,html,css" />
 
-**Data, ML & Databases**
+**Data, ML &amp; Databases**
 <br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,opencv,mysql,mongodb,linux,git" />
 
@@ -119,7 +119,7 @@ Built Python ETL pipelines for large interaction-log datasets; optimized SQL via
 
 ---
 
-### 🏆 Awards & Achievements
+### 🏆 Awards &amp; Achievements
 
 - 🥇 **ACM Research Publication (2025)** — *WebTraceSense: Visualization of User Interaction Logs*, DSAI 2024, ACM Digital Library
 - 🇮🇳 **National Research Presenter (2024)** — India International Science Festival (IISF), Govt. of India
