@@ -1,72 +1,142 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=AMAN%20KUMAR&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20•%20Backend%20%26%20AI%20Systems%20•%20ACM%20Published%20Author&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:2c5364,100:00c6ff&amp;height=220&amp;section=header&amp;text=Hi,%20I%27m%20Aman%20Kumar&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Developer%20%7C%20Backend%20%26%20AI%20Systems%20%7C%20ACM%20Published%20Author&amp;descAlignY=58&amp;descSize=17" width="100%"/>
+
+<p>
+  <a href="https://linkedin.com/in/aman-kumar-9013b5276"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+  <a href="mailto:amankumar292004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
+  <a href="https://github.com/Aman-198"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a>
+  <a href="https://twitter.com/aman__211"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white"/></a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=900&amp;color=00C6FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=780&amp;height=80&amp;lines=Software+Developer+%40+a+live+EdTech+platform+(UAE);Ex-Research+Intern+%40+INESC+TEC%2C+Porto;ACM+Digital+Library+Published+Author" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://linkedin.com/in/aman-kumar-9013b5276"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:amankumar292004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://twitter.com/aman__211"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://instagram.com/aman.2.11"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=6A11CBFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Software+Developer+%40+a+live+EdTech+platform+(UAE);Ex-Research+Intern+%40+INESC+TEC%2C+Porto;ACM+Digital+Library+Published+Author+%F0%9F%93%84;Turning+ML+models+into+explainable%2C+shippable+products" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=aman-198&label=PROFILE+VIEWS&color=6a11cb&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/aman-198?label=FOLLOWERS&style=for-the-badge&color=0e75b6&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=aman-198&amp;label=Profile+Views&amp;color=00c6ff&amp;style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/aman-198?label=Followers&amp;style=for-the-badge&amp;color=00c6ff&amp;logo=github"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%"/>
-
 <br/>
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+## 👋 About Me
 
-### 🧠 About Me
+Computer Science graduate (B.Tech, 2026) and Software Developer with hands-on experience building **full-stack web applications, ML pipelines, and production systems** for a live EdTech platform. Comfortable owning a project end-to-end — backend APIs, frontend, deployment, and SEO. Co-author of a peer-reviewed paper published in the **ACM Digital Library**.
 
 ```yaml
 name: Aman Kumar
-role: Software Engineer — Backend & AI Systems
-location: Jharkhand, India
-degree: B.Tech CSE, Ramgarh Engineering College (2022–2026) — CGPA 7.45/10
-currently_building: EdTech platform for UAE users, as Software Developer
-past_research: INESC TEC, Porto, Portugal (2 internships)
-published: "WebTraceSense" — ACM Digital Library, DSAI 2024
-recognition: National Research Presenter — IISF 2024 (Govt. of India)
-community: Lead Organizer, GDG on Campus / GfG Campus Body (2025)
-learning_now: [Distributed Systems, System Design, Kubernetes]
+role: Software Developer (Backend &amp; AI Systems)
+based_in: Jharkhand, India
+current_focus: [Distributed Systems, System Design, Kubernetes]
 languages_spoken: [English (Professional), Hindi (Native)]
-open_to: [Full-time SDE roles, Backend/ML engineering, Research collabs]
-fun_fact: "optimizes SQL queries faster than most people debug them 😄"
+open_to: [Full-time roles, Freelance projects, Research collaborations]
 ```
 
-I'm a end-to-end builder — comfortable owning a project from backend APIs and database design through to deployment and iteration. My work spans **production EdTech systems**, **explainable ML pipelines**, and **peer-reviewed HCI research**, and I enjoy projects where those three intersect: shipping models that are not just accurate, but understandable and usable by real people.
-
-</td>
-<td width="40%" valign="top" align="center">
-
-### 🎯 Focus Areas
-
-`Backend Architecture` ████████████░░ 85%
-`Machine Learning` ██████████░░░░ 75%
-`System Design` ████████░░░░░░ 60%
-`Frontend / React` ███████████░░░ 80%
-`DevOps / Kubernetes` █████░░░░░░░░░ 40%
+- 🎓 B.Tech in Computer Science &amp; Engineering — Ramgarh Engineering College *(2022–2026)*
+- 💼 Software Developer on a live UAE-based EdTech platform — web, Android app &amp; internal tools
+- 🔬 Former Research Intern at **INESC TEC**, Porto, Portugal (two roles)
+- 📄 Co-author, *"WebTraceSense: Visualization of User Interaction Logs"* — ACM Digital Library
+- 🏛️ Selected to present research at **IISF 2024**, hosted by the Govt. of India
+- 🧭 Lead Organizer, GDG on Campus / GeeksforGeeks Campus Body
 
 <br/>
 
-### ✅ Open To
+## 🛠️ Tech Stack
 
-<img src="https://img.shields.io/badge/Full--Time-SDE%20Roles-2ecc71?style=flat-square"/><br/>
-<img src="https://img.shields.io/badge/Backend%20%2F%20ML-Engineering-6a11cb?style=flat-square"/><br/>
-<img src="https://img.shields.io/badge/Research-Collaborations-0e75b6?style=flat-square"/>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,c,ts,js,mysql,flask,fastapi,react,nextjs,nodejs,tensorflow,pytorch,sklearn,linux,git,html,css&amp;theme=light&amp;perline=9" />
+
+</div>
+
+<table width="100%">
+<tr>
+<td valign="top" width="25%"><b>Languages</b><br/>Python · C · TypeScript · JavaScript · SQL</td>
+<td valign="top" width="25%"><b>Backend &amp; Frontend</b><br/>Flask · FastAPI · React · Next.js · Node.js · REST APIs</td>
+<td valign="top" width="25%"><b>Machine Learning</b><br/>XGBoost · TensorFlow · PyTorch · Scikit-learn · SHAP</td>
+<td valign="top" width="25%"><b>Systems</b><br/>MySQL · Linux · Git</td>
+</tr>
+</table>
+
+<br/>
+
+## 💼 Experience
+
+<table width="100%">
+<tr>
+<td width="100%">
+
+**Software Developer** · Smart Class Connect · *Remote* · Jan 2025 – Present
+Software developer on a UAE-based EdTech platform — website, Android app, and internal tools, end-to-end. Rebuilt the main site with a mobile-first, SEO-optimized layout targeted at UAE users, managing ongoing SEO and keyword strategy. Own data analysis and content production across large multi-subject question banks.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**Frontend Development Intern** · INESC TEC (RobotAir Lab), Porto, Portugal *(Remote)* · Jun 2025 – Sep 2025
+Built React dashboards visualizing real-time vehicle telemetry over WebSocket connections. Improved client-side performance via memoization and lazy-loading; contributed reusable UI components across the dashboard.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**Research Data Engineer Intern** · INESC TEC (HumanISE Research Center), Porto, Portugal *(Remote)* · Jun 2024 – Aug 2024
+Built Python ETL pipelines to process large interaction-log datasets. Optimized SQL queries via execution profiling and added automated data-validation checks using Scikit-learn.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🫀 CardioStack-SHAP
+**Explainable Clinical Risk Prediction** · *Jan – May 2026*
+
+Stacking ensemble (XGBoost, Random Forest, MLP) for cardiovascular risk prediction — **91% accuracy**, **97% AUC** — with SHAP-based explainability and a React dashboard for interpretable predictions.
+
+`Python` `XGBoost` `FastAPI` `React` `SHAP` `TensorFlow`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌾 Geospatial AI
+**Precision Agriculture Dashboard** · *Jun – Dec 2025*
+
+CNN models trained in PyTorch on satellite imagery to support flood-risk mapping and crop-yield estimates.
+
+`React` `PyTorch` `CNN` `Geospatial Analytics`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 Medical Recommendation API
+*Jan – Dec 2024*
+
+Flask-based disease-prediction API using an SVM classifier — **93% accuracy** on the test set.
+
+`Python` `Flask` `Scikit-learn` `SVM`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 WebTraceSense
+**ACM Published Research** · *2025*
+
+Peer-reviewed paper on visualizing user interaction logs, presented at DSAI 2024, indexed in the ACM Digital Library.
+DOI: [10.1145/3696593.3696649](https://doi.org/10.1145/3696593.3696649)
+
+`Research` `Data Visualization` `HCI`
 
 </td>
 </tr>
@@ -76,229 +146,60 @@ I'm a end-to-end builder — comfortable owning a project from backend APIs and 
 
 ## 🎓 Education
 
-<table width="100%">
-<tr>
-<td width="14%" align="center">🏫</td>
-<td>
-
-**Bachelor of Technology (B.Tech) — Computer Science & Engineering**
-Ramgarh Engineering College, Jharkhand, India · *Aug 2022 – Jul 2026*
-CGPA: **7.45 / 10**
-
-</td>
-</tr>
-</table>
+**Bachelor of Technology (B.Tech.) — Computer Science &amp; Engineering**
+Ramgarh Engineering College, Jharkhand, India · Aug 2022 – Jul 2026 · CGPA: 7.45/10
 
 <br/>
 
-## 🧩 Core Competencies
+## 🏆 Awards &amp; Achievements
 
-<table width="100%">
-<tr>
-<td width="25%" valign="top" align="center">
-
-**🔧 Backend**
-<br/>
-Flask · FastAPI · REST APIs<br/>Node.js · MySQL
-
-</td>
-<td width="25%" valign="top" align="center">
-
-**🎨 Frontend**
-<br/>
-React · Next.js<br/>WebSockets · Dashboards
-
-</td>
-<td width="25%" valign="top" align="center">
-
-**🤖 Machine Learning**
-<br/>
-XGBoost · PyTorch<br/>TensorFlow · SHAP
-
-</td>
-<td width="25%" valign="top" align="center">
-
-**🧠 Problem Solving**
-<br/>
-DSA · System Design<br/>SQL Optimization
-
-</td>
-</tr>
-</table>
+| Award | Detail |
+|---|---|
+| 🥇 ACM Research Publication (2025) | DSAI 2024, ACM Digital Library |
+| 🇮🇳 National Research Presenter (2024) | India International Science Festival (IISF), Govt. of India |
+| 🧑‍💻 Lead Organizer (2025) | GDG on Campus / GeeksforGeeks Campus Body, Ramgarh Engineering College |
 
 <br/>
 
-## 💼 Experience Timeline
-
-<table width="100%">
-<tr><td width="14%" align="center">🟢<br/><b>2025–<br/>Present</b></td>
-<td>
-
-**Software Developer** — Smart Class Connect · *Remote*
-Software Developer on a UAE-based EdTech platform — website, Android app, and internal tooling, end-to-end. Rebuilt the site with a mobile-first, SEO-optimized architecture and drive ongoing SEO strategy across large multi-subject content banks.
-
-</td></tr>
-<tr><td align="center">🔵<br/><b>Jun–Sep<br/>2025</b></td>
-<td>
-
-**Frontend Development Intern** — INESC TEC (RobotAir Lab) · Porto, Portugal *(Remote)*
-Built React dashboards streaming real-time vehicle telemetry over WebSockets; boosted client-side performance with memoization & lazy-loading; shipped reusable UI components across the dashboard suite.
-
-</td></tr>
-<tr><td align="center">🟣<br/><b>Jun–Aug<br/>2024</b></td>
-<td>
-
-**Research Data Engineer Intern** — INESC TEC (HumanISE Center) · Porto, Portugal *(Remote)*
-Built Python ETL pipelines processing large interaction-log datasets; profiled and optimized SQL execution plans; added automated data-validation with Scikit-learn.
-
-</td></tr>
-</table>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3>🫀 CardioStack-SHAP</h3>
-<i>Explainable Clinical Risk Prediction · Jan–May 2026</i>
-<br/><br/>
-
-Stacking ensemble (XGBoost + Random Forest + MLP) for cardiovascular risk prediction with a SHAP-explainability layer and an interpretable React dashboard.
-
-<img src="https://img.shields.io/badge/Accuracy-91%25-6a11cb?style=flat-square"/> <img src="https://img.shields.io/badge/AUC-97%25-0e75b6?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-black?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-
-</td>
-<td width="50%" valign="top">
-<h3>🌾 Geospatial AI</h3>
-<i>Precision Agriculture Dashboard · Jun–Dec 2025</i>
-<br/><br/>
-
-CNNs trained in PyTorch on satellite imagery to power flood-risk mapping and crop-yield estimation, visualized on an interactive React map layer.
-
-<img src="https://img.shields.io/badge/Domain-Geospatial%20Analytics-0e75b6?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/CNN-6a11cb?style=flat-square"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🩺 Medical Recommendation API</h3>
-<i>Jan–Dec 2024</i>
-<br/><br/>
-
-Flask-based disease-prediction service powered by an SVM classifier, served as a lightweight REST API.
-
-<img src="https://img.shields.io/badge/Accuracy-93%25-6a11cb?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/SVM-0e75b6?style=flat-square"/>
-
-</td>
-<td width="50%" valign="top">
-<h3>📊 WebTraceSense</h3>
-<i>ACM Published Research · 2025</i>
-<br/><br/>
-
-Peer-reviewed paper on visualizing user interaction logs — presented at DSAI 2024 and indexed in the ACM Digital Library.
-
-<img src="https://img.shields.io/badge/DOI-10.1145%2F3696593.3696649-6a11cb?style=flat-square"/>
-
-<a href="https://doi.org/10.1145/3696593.3696649"><img src="https://img.shields.io/badge/Read%20Paper-ACM%20DL-0e75b6?style=flat-square&logo=googlescholar&logoColor=white"/></a>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%"/>
-
-## 🏆 Awards & Recognition
-
-<table width="100%">
-<tr><td align="center">🥇</td><td><b>ACM Research Publication (2025)</b> — DSAI 2024, ACM Digital Library</td></tr>
-<tr><td align="center">🎤</td><td><b>National Research Presenter (2024)</b> — India International Science Festival, Govt. of India</td></tr>
-<tr><td align="center">👥</td><td><b>Lead Organizer, GDG on Campus / GfG Campus Body (2025)</b> — Ramgarh Engineering College</td></tr>
-</table>
-
-<br/>
-
-## 🛠️ Tech Stack
+## 🧩 Coding Profiles
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,c,ts,js,mysql,flask,fastapi,react,nextjs,nodejs,tensorflow,pytorch,sklearn,mongodb,firebase,linux,git,html,css&theme=dark&perline=10" />
+<a href="https://leetcode.com/u/Amankr211/"><img src="https://img.shields.io/badge/LeetCode-Amankr211-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black"/></a>
+<a href="https://www.codechef.com/users/aman211"><img src="https://img.shields.io/badge/CodeChef-aman211-5B4638?style=for-the-badge&amp;logo=codechef&amp;logoColor=white"/></a>
+<a href="https://www.geeksforgeeks.org/profile/aman211"><img src="https://img.shields.io/badge/GeeksforGeeks-aman211-2F8D46?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=white"/></a>
 
 </div>
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aman-198&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-198&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-198&theme=radical&hide_border=true&background=0D1117" width="70%"/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=aman-198&theme=radical&no-frame=true&row=1&column=7"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=aman-198&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-198&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="165"/>
 
 </div>
 
-<br/>
-
-## 🐍 Contribution Snake
-
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aman-198/aman-198/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aman-198/aman-198/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/aman-198/aman-198/output/github-contribution-grid-snake.svg">
-</picture>
-
-<sub>⚙️ one-time setup needed — see note below</sub>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-198&amp;theme=tokyonight&amp;hide_border=true" height="165"/>
 </div>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%"/>
-
-<div align="center">
 
 ## 📬 Let's Connect
 
-**Open to full-time Software Developer / Backend & ML Engineering roles, freelance projects, and research collaborations.**
+Open to full-time **Software Developer / Backend &amp; ML Engineering** roles, freelance projects, and research collaborations.
 
-<a href="mailto:amankumar292004@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-amankumar292004%40gmail.com-2ecc71?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<br/><br/>
-<a href="https://linkedin.com/in/aman-kumar-9013b5276"><img src="https://img.shields.io/badge/Portfolio%20%2F%20Resume-View%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<div align="center">
 
-<br/><br/>
-
-| 📍 Location | 💼 Availability | 🗣️ Languages |
-|:---:|:---:|:---:|
-| Jharkhand, India (Remote-friendly) | Open to full-time roles | English (Professional), Hindi (Native) |
+<a href="mailto:amankumar292004@gmail.com"><img src="https://img.shields.io/badge/amankumar292004%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
+<a href="https://linkedin.com/in/aman-kumar-9013b5276"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-## ☕ Support Me
-
-<a href="https://www.buymeacoffee.com/Aman211"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"/></a>
-<a href="https://ko-fi.com/Aman211"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi"/></a>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:2c5364,100:00c6ff&amp;height=100&amp;section=footer" width="100%"/>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer" width="100%"/>
